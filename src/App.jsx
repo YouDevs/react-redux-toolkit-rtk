@@ -1,9 +1,7 @@
+import TasksList from './components/TasksList'
+
 const App = () => {
-  return (
-    <div>
-      Hello world
-    </div>
-  )
+  return <TasksList />
 }
 
 export default App
