@@ -4,19 +4,13 @@
       "id": 1,
       "name": "task 1",
       "description": "task description 1",
-      "completed": false
+      "completed": true
     },
     {
       "id": 3,
       "name": "task 3",
       "description": "task description 3",
       "completed": false
-    },
-    {
-      "name": "tarea 5",
-      "description": "tarea con renderizado",
-      "completed": true,
-      "id": 5
     },
     {
       "name": "tarea 6",
