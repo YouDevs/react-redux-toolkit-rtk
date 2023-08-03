@@ -7,28 +7,22 @@
       "completed": false
     },
     {
-      "id": 2,
-      "name": "task 2",
-      "description": "task description 2",
-      "completed": true
-    },
-    {
       "id": 3,
       "name": "task 3",
       "description": "task description 3",
       "completed": false
     },
     {
-      "name": "tarea 4",
-      "description": "alguna tarea",
-      "completed": false,
-      "id": 4
-    },
-    {
       "name": "tarea 5",
       "description": "tarea con renderizado",
       "completed": true,
       "id": 5
+    },
+    {
+      "name": "tarea 6",
+      "description": "algo mas",
+      "completed": true,
+      "id": 6
     }
   ]
 }
